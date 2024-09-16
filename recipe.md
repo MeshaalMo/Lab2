@@ -7,6 +7,9 @@
 - 2 cups all-purpose flour
 - 1 3/4 cups granulated sugar
 - 3/4 cup unsweetened cocoa powder
+- stuff
+- 1 1/2 teaspoons baking powder
+- 1 1/2 teaspoons baking soda
 - ...
 
 ## Instructions:
